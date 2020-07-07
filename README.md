@@ -11,7 +11,7 @@ Set Fig2 as Current Folder in Matlab.
 
 To run a complete set of new simulations to generate Fig 2 run the script LabAnticipation.m. This script calls the main simulation function (anticipation.m) 100 times for each c from 0.02 to 2 in increments of 0.02 with \tau=0 and then the same with \tau=1. May take many hours to finish.
 
-REGENERATE FIG 3
+GENERATE FIG 3
 
 Set Fig3 as Current Folder in Matlab.
 
