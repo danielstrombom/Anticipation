@@ -1,5 +1,5 @@
 # Anticipation
-Code for Strömbom Antia. 2021. Anticipation induces polarized collective motion in attraction based models. Northeast Journal of Complex Systems (NEJCS) 3 (1), Article 2
+Code for Strömbom & Antia. 2021. Anticipation induces polarized collective motion in attraction based models. Northeast Journal of Complex Systems (NEJCS) 3 (1), Article 2
 
 INSTRUCTIONS FOR GENERATING FIGURES 2 AND 3 IN THE MANUSCRIPT
 
